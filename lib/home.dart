@@ -107,8 +107,16 @@ class _MyHomePageState extends State<MyHomePage> {
                     title: Text(
                       '${listayoutube[index].items[0].snippet.title}',
                     ),
-                    subtitle: Text(
-                      '${listayoutube[index].items[0].snippet.description}',
+                    subtitle: ExpansionTile(
+                      title: Text(
+                        'Detalhes',
+                      ),
+                      children: <Widget>[
+                        ListTile(
+                          title: Text(
+                              '${listayoutube[index].items[0].snippet.description}'),
+                        ),
+                      ],
                     ),
                   ),
                 ],
