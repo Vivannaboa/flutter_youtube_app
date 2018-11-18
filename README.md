@@ -13,4 +13,10 @@ para gerar o Key de acesso ao canal do youtube, consulte o link abaixo:
 
 Altere a key no arquivo "flutter_youtube_app\lib\models\constantes.dart"
 
-![gear key](docs/apikey.jpg)
+![youtube key](docs/apikey.jpg)
+
+
+## Resultado
+
+![resultado 1](docs/Screenshot_20181118-130210.png)
+![resultado 2](docs/Screenshot_20181118-130220.png)
