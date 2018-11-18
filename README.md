@@ -5,7 +5,7 @@ Um exemplo de aplicação flutter que consome a API V3 do Youtube lstando os vid
 ## Getting Started
 
 Para obter ajuda para começar a usar o Flutter, consulte o gia on-line  
-[documentation](https://flutter.io/).
+[documentação](https://flutter.io/).
 
 para gerar o Key de acesso ao canal do youtube, consulte o link abaixo:  
 [Key Youtube](https://developers.google.com/youtube/registering_an_application?hl=pt-br).
